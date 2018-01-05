@@ -1,0 +1,8 @@
+com\menlo\ftpService\CheckFtpConnectionService.class
+com\menlo\ftpService\Impl\CheckFtpConnectionServiceImpl.class
+com\menlo\SpringbootFtpToAwsApplication.class
+com\menlo\util\ConnectionCheck.class
+com\menlo\ftpService\Impl\DownloadImagesFromFtpServiceImpl.class
+com\menlo\ServletInitializer.class
+com\menlo\ftpService\DownloadImagesFromFtpService.class
+com\menlo\rest\DownloadImageController.class
